@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sanket Kadlag",
+      "email": "sanket@gmail.com",
+      "phone": "+91 89845 46466",
+      "website": "ookla.com"
+    },
+    {
+      "id": "2",
+      "name": "Adityaa Sharma",
+      "email": "aditya.sharma@gmail.com",
+      "phone": "+91 98765 12345",
+      "website": "techify.com"
+    },
+    {
+      "id": "3",
+      "name": "Priya Singh",
+      "email": "priya.singh@gmail.com",
+      "phone": "+91 87654 56789",
+      "website": "designhub.com"
+    },
+    {
+      "id": "4",
+      "name": "Rahul Verma",
+      "email": "rahul.verma@gmail.com",
+      "phone": "+91 99887 65432",
+      "website": "codecraft.com"
+    },
+    {
+      "id": "5",
+      "name": "Sneha Desai",
+      "email": "sneha.desai@gmail.com",
+      "phone": "+91 91234 67890",
+      "website": "pixelworks.com"
+    },
+    {
+      "id": "6",
+      "name": "Amit Kumar",
+      "email": "amit.kumar@gmail.com",
+      "phone": "+91 92345 67891",
+      "website": "cloudsphere.com"
+    },
+    {
+      "id": "7",
+      "name": "Akanksha Pingale",
+      "email": "akanksha.pingale@gmail.com",
+      "phone": "+91 93456 78902",
+      "website": "webgenix.com"
+    },
+    {
+      "id": "8",
+      "name": "Ravi Patil",
+      "email": "ravi.patil@gmail.com",
+      "phone": "+91 94567 89013",
+      "website": "datacore.com"
+    },
+    {
+      "id": "9",
+      "name": "Ankita Jadhav",
+      "email": "ankita.jadhav@gmail.com",
+      "phone": "+91 95678 90124",
+      "website": "innovatek.com"
+    },
+    {
+      "id": "10",
+      "name": "Karan Kapoor",
+      "email": "karan.kapoor@gmail.com",
+      "phone": "+91 96789 01235",
+      "website": "techspark.com"
+    },
+    {
+      "id": "11",
+      "name": "Chinmay",
+      "email": "chinmay@gmail.com",
+      "phone": "98846434646"
+    }
+  ]
+}
