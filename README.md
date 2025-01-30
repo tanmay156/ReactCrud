@@ -31,7 +31,7 @@ This is a simple React-based CRUD (Create, Read, Update, Delete) application tha
 
 ### 3️⃣ Start JSON Server (Backend)
 ```sh
- json-server --watch db.json --port 3000
+ json-server src/db.json
 ```
 This will start the mock backend at `http://localhost:3000/users`.
 
